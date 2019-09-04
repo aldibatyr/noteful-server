@@ -1,0 +1,23 @@
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"getNoteValidationError is not a function","level":"error"}
+{"message":"notes is not defined","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"name\") values ($1, $2, $3) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"name\") values ($1, $2, $3) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"folderid is required","level":"error"}
+{"message":"no folder provided","level":"error"}
+{"message":"no folder provided","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 2 created.","level":"info"}
+{"message":"Folder with id 3 created.","level":"info"}
+{"message":"Folder with id 4 created.","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"no folder provided","level":"error"}
+{"message":"Note with id 1 created","level":"info"}
+{"message":"Note with id 2 created","level":"info"}
+{"message":"Note with id 3 created","level":"info"}
+{"message":"Note with id 4 created","level":"info"}
+{"message":"Unexpected token } in JSON at position 19","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Note with id 5 created","level":"info"}
+{"message":"Note with id 6 created","level":"info"}
