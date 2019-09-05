@@ -21,3 +21,77 @@
 {"message":"name is required","level":"error"}
 {"message":"Note with id 5 created","level":"info"}
 {"message":"Note with id 6 created","level":"info"}
+{"message":"note with id 6 deleted","level":"info"}
+{"message":"note with id 1 deleted","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"Folder with id 5 created.","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"note with id 2 deleted","level":"info"}
+{"message":"Note with id 1 not found","level":"error"}
+{"message":"note with id 1 deleted","level":"info"}
+{"message":"note with id 3 deleted","level":"info"}
+{"message":"Folder with id 6 created.","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"Note with id 7 created","level":"info"}
+{"message":"Note with id 8 created","level":"info"}
+{"message":"select * from \"notes\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"undefined\"","level":"error"}
+{"message":"Note with id 9 created","level":"info"}
+{"message":"select * from \"notes\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"undefined\"","level":"error"}
+{"message":"select * from \"notes\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"undefined\"","level":"error"}
+{"message":"select * from \"notes\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"undefined\"","level":"error"}
+{"message":"note with id 4 deleted","level":"info"}
+{"message":"select * from \"notes\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"undefined\"","level":"error"}
+{"message":"note with id 5 deleted","level":"info"}
+{"message":"note with id 7 deleted","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"Folder with id 7 created.","level":"info"}
+{"message":"note with id 8 deleted","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"folder_id is required","level":"error"}
+{"message":"Note with id 10 created","level":"info"}
+{"message":"Note with id 11 created","level":"info"}
+{"message":"Folder with id 8 created.","level":"info"}
+{"message":"note with id 9 deleted","level":"info"}
+{"message":"Note with id 12 created","level":"info"}
+{"message":"note with id 12 deleted","level":"info"}
+{"message":"Note with id 13 created","level":"info"}
+{"message":"note with id 13 deleted","level":"info"}
+{"message":"Note with id 14 created","level":"info"}
+{"message":"note with id 14 deleted","level":"info"}
+{"message":"Note with id 15 created","level":"info"}
+{"message":"note with id 15 deleted","level":"info"}
+{"message":"note with id 10 deleted","level":"info"}
+{"message":"Note with id 16 created","level":"info"}
+{"message":"Note with id 17 created","level":"info"}
+{"message":"note with id 17 deleted","level":"info"}
+{"message":"note with id 16 deleted","level":"info"}
+{"message":"note with id 11 deleted","level":"info"}
+{"message":"Note with id 11 not found","level":"error"}
+{"message":"note with id 11 deleted","level":"info"}
+{"message":"Note with id 18 created","level":"info"}
+{"message":"note with id 18 deleted","level":"info"}
+{"message":"Note with id 19 created","level":"info"}
+{"message":"Note with id 20 created","level":"info"}
+{"message":"Note with id 21 created","level":"info"}
+{"message":"Note with id 22 created","level":"info"}
+{"message":"Note with id 23 created","level":"info"}
+{"message":"Note with id 24 created","level":"info"}
+{"message":"note with id 19 deleted","level":"info"}
+{"message":"Note with id 25 created","level":"info"}
+{"message":"note with id 25 deleted","level":"info"}
+{"message":"note with id 24 deleted","level":"info"}
+{"message":"Note with id 26 created","level":"info"}
+{"message":"note with id 26 deleted","level":"info"}
+{"message":"note with id 20 deleted","level":"info"}
+{"message":"Note with id 20 not found","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"note with id 23 deleted","level":"info"}
+{"message":"note with id 22 deleted","level":"info"}
